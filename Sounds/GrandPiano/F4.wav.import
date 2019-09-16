@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/F4.wav-9d28b498fbfecdd77d3b29b333b4fbe5.sample"
+
+[deps]
+
+source_file="res://Sounds/GrandPiano/F4.wav"
+dest_files=[ "res://.import/F4.wav-9d28b498fbfecdd77d3b29b333b4fbe5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

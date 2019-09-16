@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/G3.wav-6f015c2672def37d44fc6fc9c16f59aa.sample"
+
+[deps]
+
+source_file="res://Sounds/GrandPiano/G3.wav"
+dest_files=[ "res://.import/G3.wav-6f015c2672def37d44fc6fc9c16f59aa.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

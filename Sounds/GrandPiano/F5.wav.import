@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/F5.wav-26d0c8c5574013f3e7bfa2e0846ed08c.sample"
+
+[deps]
+
+source_file="res://Sounds/GrandPiano/F5.wav"
+dest_files=[ "res://.import/F5.wav-26d0c8c5574013f3e7bfa2e0846ed08c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

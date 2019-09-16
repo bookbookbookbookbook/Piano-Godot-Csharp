@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/G2.wav-ae2216bfbd0d4b1946ab780d597f01be.sample"
+
+[deps]
+
+source_file="res://Sounds/GrandPiano/G2.wav"
+dest_files=[ "res://.import/G2.wav-ae2216bfbd0d4b1946ab780d597f01be.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

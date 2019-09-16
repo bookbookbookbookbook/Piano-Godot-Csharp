@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/C#4.wav-a89b68c0672f993ab429c2ae2a4f925c.sample"
+
+[deps]
+
+source_file="res://Sounds/GrandPiano/C#4.wav"
+dest_files=[ "res://.import/C#4.wav-a89b68c0672f993ab429c2ae2a4f925c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
